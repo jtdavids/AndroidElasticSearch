@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/cshome/joshua2/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="/cshome/joshua2/AndroidElasticSearch1/app/build/intermediates/pre-dexed/debug/gson-2.3-51e221afde6a75d616562722a0f06dad8f124f68.jar" />
-    </item>
-    <item
-        jar="/usr/local/share/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jar="C:\Users\jake\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/cshome/joshua2/AndroidElasticSearch1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-6fe1f8ef58248cf0e2ea5e03b1a99f674e0ec0f2.jar" />
+        <dex dex="C:\Users\jake\Documents\GitHub\AndroidElasticSearch\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-27d403f702651372a7d5c124869860b17e132e8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jake\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\jake\Documents\GitHub\AndroidElasticSearch\app\build\intermediates\pre-dexed\debug\gson-2.4-e2a8bb6c3b90ae217e01e3e8084ef86195e6c97d.jar" />
     </item>
 
 </items>
